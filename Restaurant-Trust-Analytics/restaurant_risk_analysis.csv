@@ -1,0 +1,149 @@
+name,online_order,book_table,rate,votes,approx_cost(for two people),listed_in(type),suspicious_review,suspicious_1,suspicious_2,suspicious_3,risk_score,risk_category
+Jalsa,Yes,Yes,4.1,775,800,Buffet,False,False,False,False,0,Normal
+Spice Elephant,Yes,No,4.1,787,800,Buffet,False,False,False,False,0,Normal
+San Churro Cafe,Yes,No,3.8,918,800,Buffet,False,False,False,False,0,Normal
+Addhuri Udupi Bhojana,No,No,3.7,88,300,Buffet,False,False,False,False,0,Normal
+Grand Village,No,No,3.8,166,600,Buffet,False,False,False,False,0,Normal
+Timepass Dinner,Yes,No,3.8,286,600,Buffet,False,False,False,False,0,Normal
+Rosewood International Hotel - Bar & Restaurant,No,No,3.6,8,800,Buffet,False,False,False,False,0,Normal
+Onesta,Yes,Yes,4.6,2556,600,Cafes,False,False,False,False,0,Normal
+Penthouse Cafe,Yes,No,4.0,324,700,other,False,False,False,False,0,Normal
+Smacznego,Yes,No,4.2,504,550,Cafes,False,False,False,False,0,Normal
+Village Café,Yes,No,4.1,402,500,Cafes,False,False,False,False,0,Normal
+Cafe Shuffle,Yes,Yes,4.2,150,600,Cafes,False,False,False,False,0,Normal
+The Coffee Shack,Yes,Yes,4.2,164,500,Cafes,False,False,False,False,0,Normal
+Caf-Eleven,No,No,4.0,424,450,Cafes,False,False,False,False,0,Normal
+San Churro Cafe,Yes,No,3.8,918,800,Cafes,False,False,False,False,0,Normal
+Cafe Vivacity,Yes,No,3.8,90,650,Cafes,False,False,False,False,0,Normal
+Catch-up-ino,Yes,No,3.9,133,800,Cafes,False,False,False,False,0,Normal
+Kirthi's Biryani,Yes,No,3.8,144,700,Cafes,False,False,False,False,0,Normal
+T3H Cafe,No,No,3.9,93,300,Cafes,False,False,False,False,0,Normal
+360 Atoms Restaurant And Cafe,Yes,No,3.1,13,400,Cafes,False,False,False,False,0,Normal
+The Vintage Cafe,Yes,No,3.0,62,400,Cafes,False,False,False,False,0,Normal
+Woodee Pizza,Yes,No,3.7,180,500,Cafes,False,False,False,False,0,Normal
+Cafe Coffee Day,No,No,3.6,28,900,Cafes,False,False,False,False,0,Normal
+My Tea House,Yes,No,3.6,62,600,Cafes,False,False,False,False,0,Normal
+Hide Out Cafe,No,No,3.7,31,300,Cafes,False,False,False,False,0,Normal
+CAFE NOVA,No,No,3.2,11,600,Cafes,False,False,False,False,0,Normal
+Coffee Tindi,Yes,No,3.8,75,200,Cafes,False,False,False,False,0,Normal
+Sea Green Cafe,No,No,3.3,4,500,Cafes,False,False,False,False,0,Normal
+Cuppa,No,No,3.3,23,550,Cafes,False,False,False,False,0,Normal
+Srinathji's Cafe,No,No,3.8,148,550,Cafes,False,False,False,False,0,Normal
+Redberrys,Yes,No,4.0,219,600,Cafes,False,False,False,False,0,Normal
+Foodiction,Yes,No,2.8,506,500,other,False,False,False,False,0,Normal
+Sweet Truth,Yes,No,3.9,35,500,Dining,False,False,False,False,0,Normal
+Ovenstory Pizza,Yes,No,3.9,172,750,Dining,False,False,False,False,0,Normal
+Faasos,Yes,No,4.2,415,500,other,False,False,False,False,0,Normal
+Behrouz Biryani,Yes,No,3.9,230,650,Dining,False,False,False,False,0,Normal
+Fast And Fresh,Yes,No,2.8,91,400,Dining,False,False,False,False,0,Normal
+Szechuan Dragon,Yes,No,4.2,1647,600,Dining,False,False,False,False,0,Normal
+Empire Restaurant,Yes,No,4.4,4884,750,other,False,False,False,False,0,Normal
+Maruthi Davangere Benne Dosa,Yes,No,4.0,17,150,Dining,False,False,False,False,0,Normal
+Chaatimes,Yes,No,3.8,133,200,Dining,False,False,False,False,0,Normal
+Havyaka Mess,No,No,3.9,28,300,Dining,False,False,False,False,0,Normal
+McDonald's,Yes,No,3.9,286,500,Dining,False,False,False,False,0,Normal
+Domino's Pizza,Yes,No,3.9,540,800,Dining,False,False,False,False,0,Normal
+Onesta,Yes,Yes,4.6,2556,600,other,False,False,False,False,0,Normal
+Hotboxit,No,No,3.8,36,400,Dining,False,False,False,False,0,Normal
+Kitchen Garden,Yes,No,3.6,244,300,Dining,False,False,False,False,0,Normal
+Recipe,Yes,No,4.0,804,450,Dining,False,False,False,False,0,Normal
+Beijing Bites,Yes,No,3.7,679,850,Dining,False,False,False,False,0,Normal
+Tasty Bytes,Yes,No,3.1,245,300,Dining,False,False,False,False,0,Normal
+Petoo,No,No,3.7,21,450,Dining,False,False,False,False,0,Normal
+Shree Cool Point,Yes,No,4.1,28,150,Dining,False,False,False,False,0,Normal
+Corner House Ice Cream,No,No,4.3,345,400,Dining,False,False,False,False,0,Normal
+Biryanis And More,Yes,No,4.0,618,750,Dining,False,False,False,False,0,Normal
+Roving Feast,No,No,4.0,1047,450,Dining,False,False,False,False,0,Normal
+FreshMenu,Yes,No,3.9,627,450,Dining,False,False,False,False,0,Normal
+Banashankari Donne Biriyani,Yes,No,3.8,104,300,Dining,False,False,False,False,0,Normal
+Wamama,Yes,Yes,4.2,354,800,other,False,False,False,False,0,Normal
+Five Star Chicken,No,No,3.6,55,200,Dining,False,False,False,False,0,Normal
+XO Belgian Waffle,Yes,No,3.7,17,400,Dining,False,False,False,False,0,Normal
+Peppy Peppers,No,No,4.2,244,800,other,False,False,False,False,0,Normal
+Goa 0 Km,Yes,Yes,3.6,163,800,Dining,False,False,False,False,0,Normal
+Chinese Kitchen,Yes,No,3.8,58,150,Dining,False,False,False,False,0,Normal
+Jeet Restaurant,No,Yes,4.0,808,850,Dining,False,False,False,False,0,Normal
+Cake of the Day,No,No,3.7,78,150,Dining,False,False,False,False,0,Normal
+Kabab Magic,Yes,No,4.1,1720,400,Dining,False,False,False,False,0,Normal
+Namma Brahmin's Idli,Yes,No,3.6,34,100,Dining,False,False,False,False,0,Normal
+Gustoes Beer House,No,No,4.1,868,700,Dining,False,False,False,False,0,Normal
+Sugar Rush,No,No,3.8,39,300,Dining,False,False,False,False,0,Normal
+Burger King,Yes,No,3.2,71,600,Dining,False,False,False,False,0,Normal
+The Good Bowl,Yes,No,3.6,6,500,Dining,False,False,False,False,0,Normal
+The Biryani Cafe,No,No,4.1,520,300,Dining,False,False,False,False,0,Normal
+Spicy Tandoor,No,No,4.1,0,150,Dining,False,False,False,False,0,Normal
+LSD Cafe,No,No,2.9,84,700,other,False,False,False,False,0,Normal
+Rolls On Wheels,No,No,3.6,299,300,Dining,False,False,False,False,0,Normal
+Om Sri Vinayaka Chats,No,No,3.6,0,500,Dining,False,False,False,False,0,Normal
+Sri Guru Kottureshwara Davangere Benne Dosa,Yes,No,4.1,558,150,Dining,False,False,False,False,0,Normal
+Devanna Dum Biriyani Centre,Yes,No,3.6,28,300,Dining,False,False,False,False,0,Normal
+Kolbeh,No,No,3.7,22,500,Dining,False,False,False,False,0,Normal
+Upahar Sagar,No,No,3.8,39,350,Dining,False,False,False,False,0,Normal
+Kadalu Sea Food Restaurant,Yes,No,3.8,153,500,Dining,False,False,False,False,0,Normal
+Frozen Bottle,Yes,No,4.2,146,400,Dining,False,False,False,False,0,Normal
+Parimala Sweets,No,No,3.5,14,200,Dining,False,False,False,False,0,Normal
+Vaishali Deluxe,No,No,3.8,42,700,Dining,False,False,False,False,0,Normal
+Chill Out,No,No,3.8,0,100,Dining,False,False,False,False,0,Normal
+The Big O Bakes,No,No,4.0,66,300,Dining,False,False,False,False,0,Normal
+Meghana Foods,Yes,No,4.4,4401,600,Dining,False,False,False,False,0,Normal
+Krishna Sagar,No,No,3.5,31,200,Dining,False,False,False,False,0,Normal
+Dessert Rose,No,No,3.5,7,500,Dining,False,False,False,False,0,Normal
+Chickpet Donne Biryani House,No,No,3.7,21,250,Dining,False,False,False,False,0,Normal
+Me And My Cake,No,No,3.7,0,500,Dining,False,False,False,False,0,Normal
+Sunsadm,No,No,3.7,0,400,Dining,False,False,False,False,0,Normal
+Annapooraneshwari Mess,No,No,3.7,0,200,Dining,False,False,False,False,0,Normal
+Thanco's Natural Ice Creams,No,No,3.2,9,300,Dining,False,False,False,False,0,Normal
+Nandhini Deluxe,No,No,2.6,283,600,Dining,False,False,False,False,0,Normal
+Vi Ra's Bar and Restaurant,No,No,3.3,62,800,Dining,False,False,False,False,0,Normal
+Kaggis,No,No,3.8,64,250,Dining,False,False,False,False,0,Normal
+Ayda Persian Kitchen,No,No,3.7,39,950,Dining,False,False,False,False,0,Normal
+Chatar Patar,No,No,3.7,65,300,Dining,False,False,False,False,0,Normal
+Polar Bear,Yes,No,3.8,71,400,Dining,False,False,False,False,0,Normal
+Kidambi's Kitchen,No,No,3.5,52,300,Dining,False,False,False,False,0,Normal
+Mane Thindi,No,No,3.7,130,200,Dining,False,False,False,False,0,Normal
+Kotian Karavali Restaurant,No,No,3.5,10,300,Dining,False,False,False,False,0,Normal
+Floured-Baked With Love,No,No,3.8,45,400,Dining,False,False,False,False,0,Normal
+CAFE NOVA,No,No,3.2,11,600,Dining,False,False,False,False,0,Normal
+Cakes & Slices,No,No,3.5,13,300,Dining,False,False,False,False,0,Normal
+Spice 9,No,No,3.4,8,300,Dining,False,False,False,False,0,Normal
+Coffee Shopee,No,No,3.4,0,250,Dining,False,False,False,False,0,Normal
+Naveen Kabab & Biriyani Mane,No,No,3.2,9,300,Dining,False,False,False,False,0,Normal
+Katriguppe Donne Biryani,No,No,3.2,4,300,Dining,False,False,False,False,0,Normal
+Hari Super Sandwich,No,No,3.2,0,200,Dining,False,False,False,False,0,Normal
+Atithi Point Ande Ka Funda,No,No,3.1,29,150,Dining,False,False,False,False,0,Normal
+Just Bake,No,No,3.4,8,400,Dining,False,False,False,False,0,Normal
+Dharwad Line Bazaar Mishra Pedha,No,No,3.4,0,150,Dining,False,False,False,False,0,Normal
+Cake Bite,No,No,3.4,0,300,Dining,False,False,False,False,0,Normal
+Aarush's Food Plaza,No,No,3.4,0,200,Dining,False,False,False,False,0,Normal
+Wood Stove,No,No,3.4,0,150,Dining,False,False,False,False,0,Normal
+Kulfi & More,No,No,3.4,0,150,Dining,False,False,False,False,0,Normal
+Kannadigas Karavali,No,No,3.4,0,250,Dining,False,False,False,False,0,Normal
+K27 - The Pub,No,No,3.1,30,900,Dining,False,False,False,False,0,Normal
+Bengaluru Coffee House,Yes,No,4.1,201,300,Dining,False,False,False,False,0,Normal
+New Mangalore Lunch Home,No,No,3.3,7,200,Dining,False,False,False,False,0,Normal
+Coffee Bytes,No,No,3.1,6,100,Dining,False,False,False,False,0,Normal
+Parjanya Chat Zone,No,No,3.3,17,200,Dining,False,False,False,False,0,Normal
+Kwality Wall's Swirl's Happiness Station,No,No,2.9,25,200,Dining,False,False,False,False,0,Normal
+Soms Kitchen & Bakes,No,No,2.9,0,400,Dining,False,False,False,False,0,Normal
+Banashankari Nati Style,No,No,2.9,0,350,Dining,False,False,False,False,0,Normal
+Ruchi Maayaka,No,No,3.3,8,100,Dining,False,False,False,False,0,Normal
+Mohitesh Hut Roll,No,No,3.3,0,150,Dining,False,False,False,False,0,Normal
+Sri Basaveshwar Jolada Rotti Oota,No,No,3.4,0,150,Dining,False,False,False,False,0,Normal
+Roll Magic Fast Food,No,No,3.4,0,200,Dining,False,False,False,False,0,Normal
+Foodlieious Multi Cuisine,No,No,3.4,0,100,Dining,False,False,False,False,0,Normal
+Thanishka Nati And Karavali Style,No,No,3.1,0,400,Dining,False,False,False,False,0,Normal
+Swathi Cool Point,No,No,4.1,0,200,Dining,False,False,False,False,0,Normal
+Kaumudis Juoice,No,No,3.3,0,150,Dining,False,False,False,False,0,Normal
+Amma - Manae,No,No,3.1,0,400,Dining,False,False,False,False,0,Normal
+Sri Sai Tiffannies,No,No,3.3,0,150,Dining,False,False,False,False,0,Normal
+Hotel Andhra Speices,No,No,2.9,0,250,Dining,False,False,False,False,0,Normal
+Sri Murari Family Restaurant,No,No,2.9,0,250,Dining,False,False,False,False,0,Normal
+Aramane Donne Biriyani,No,No,2.9,0,150,Dining,False,False,False,False,0,Normal
+Darkolates,No,No,3.3,0,200,Dining,False,False,False,False,0,Normal
+Swaada Healthy Kitchen,No,No,3.3,0,350,Dining,False,False,False,False,0,Normal
+Gawdaru Mane Beriyani,No,No,3.3,0,300,Dining,False,False,False,False,0,Normal
+Melting Melodies,No,No,3.3,0,100,Dining,False,False,False,False,0,Normal
+New Indraprasta,No,No,3.3,0,150,Dining,False,False,False,False,0,Normal
+Anna Kuteera,Yes,No,4.0,771,450,Dining,False,False,False,False,0,Normal
+Darbar,No,No,3.0,98,800,Dining,False,False,False,False,0,Normal
+Vijayalakshmi,Yes,No,3.9,47,200,Dining,False,False,False,False,0,Normal
